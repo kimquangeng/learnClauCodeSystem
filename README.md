@@ -128,4 +128,6 @@ The entire process — from source extraction to final revised book — took app
 
 **This repository does not contain any source code from Claude Code.** All code blocks are original pseudocode using different variable names, written to illustrate architectural patterns. No proprietary prompt text, internal constants, or exact function implementations are included. This project exists purely for educational purposes — to help engineers understand the design patterns behind production AI coding agents.
 
+The "NO'REILLY" cover is a parody/meme for illustrative purposes only. This project has no affiliation with O'Reilly Media. The crab is just a crab.
+
 This is an independent analysis. Claude Code is a product of Anthropic. This book is not affiliated with, endorsed by, or sponsored by Anthropic.
